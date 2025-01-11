@@ -1,6 +1,6 @@
 function Home(){
   return <h1>
-    Olá Mundo!!
+    Khianny, eu te amo!
   </h1>
 }
 
